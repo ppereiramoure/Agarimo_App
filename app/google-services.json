@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8969292377",
+    "project_id": "intent-84190",
+    "storage_bucket": "intent-84190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8969292377:android:30087320645c5b41e1ff48",
+        "android_client_info": {
+          "package_name": "com.pablo.agar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8969292377-gqmmaquln05ijmf8nl2kdntgmhmbu2d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pablo.agar",
+            "certificate_hash": "be46ef7d80c422e0b09fe43346cc71496dfc3dda"
+          }
+        },
+        {
+          "client_id": "8969292377-sn2cguaimv3psl63dahgks97u1o8ocjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOzJ4lFUGKODSaIH6EybIJLJnQGVUCKDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8969292377-sn2cguaimv3psl63dahgks97u1o8ocjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
